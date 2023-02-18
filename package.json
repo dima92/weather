@@ -1,0 +1,25 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "CLI",
+    "weather"
+  ],
+  "author": "Dmitry Tkachenko <dima-tkachenko@mail.ru>",
+  "license": "ISC",
+  "homepage": "https://github.com/dima92/weather#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:dima92/weather.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dima92/weather/issues",
+    "email": "dima-tkachenko@mail.ru"
+  }
+}
